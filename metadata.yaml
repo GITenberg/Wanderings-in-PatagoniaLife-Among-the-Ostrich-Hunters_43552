@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42290'
     url: http://www.gutenberg.org/2009/agents/42290
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43552#Wanderings-in-PatagoniaLife-Among-the-Ostrich-Hunters
 gutenberg_issued: '2013-08-24'
 gutenberg_type: Text
 identifiers:
